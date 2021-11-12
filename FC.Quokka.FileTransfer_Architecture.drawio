@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T11:57:20.112Z" agent="5.0 (Windows)" etag="RhtXaH9lJCx2mJ_N-QNa" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T11:59:41.583Z" agent="5.0 (Windows)" etag="HayJC6zzb8hdPe1YuEA7" version="15.7.3" type="github">
   <diagram id="e6vr0kPbjMTlubADFca8" name="Page-1">
-    <mxGraphModel dx="4890" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,9 @@
         </mxCell>
         <mxCell id="ce3dV2bPjubF25PgB8vf-67" value="Architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="-415" y="161" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ce3dV2bPjubF25PgB8vf-68" value="&lt;div style=&quot;font-size: 16px&quot;&gt;DropBox provider&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#007FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1036" width="78" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
